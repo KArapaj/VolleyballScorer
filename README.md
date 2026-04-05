@@ -8,7 +8,7 @@ A React Native mobile app for scoring volleyball matches in real time. Supports 
 
 <p align="center">
   <a href="https://github.com/KArapaj/VolleyballScorer/releases/latest/download/VolleyballScorer_v2.0.apk">
-    <img src="https://img.shields.io/badge/Download-APK%20v2.0-4CAF50?style=for-the-badge&logo=android" alt="Download APK" />
+    <img src="https://img.shields.io/badge/Download-APK%20v1.0-4CAF50?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
 </p>
 
