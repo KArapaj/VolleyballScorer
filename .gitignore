@@ -56,6 +56,19 @@ yarn-error.log
 # Bundle artifact
 *.jsbundle
 
+# Build outputs
+*.apk
+*.aab
+
+# Spurious files
+nul
+
+# Debug/development screenshots (not app screenshots)
+screenshot.png
+screenshot2.png
+screenshot3.png
+screenshot4.png
+
 # Ruby / CocoaPods
 **/Pods/
 /vendor/bundle/
